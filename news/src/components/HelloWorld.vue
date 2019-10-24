@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <h2>Essential sssLinks</h2>
+    <h2>Essential ssssssLinks</h2>
     <ul>
       <li>
         <a
